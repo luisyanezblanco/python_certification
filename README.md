@@ -1,6 +1,6 @@
 # Coursera Python Certification
 
-Enlace al curso [title](https://www.coursera.org/)
+Enlace al curso [Coursera](https://www.coursera.org/)
 
 
 ## Python crash course
