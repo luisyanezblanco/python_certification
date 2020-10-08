@@ -1,13 +1,11 @@
 # Coursera Python Certification
 
-### Python crash course
-`def test():
-	print("estes es el primer codigo")`
+## Python crash course
+`code`
+## Introduction to Git and Github
 
-### Introduction to Git and Github
+## Troubleshooting and Debugging
 
-### Troubleshooting and Debugging
+## Configuration Management and the Cloud
 
-### Configuration Management and the Cloud
-
-### Automating real-world task with Python
+## Automating real-world task with Python
