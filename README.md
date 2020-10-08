@@ -1,8 +1,8 @@
 # Coursera Python Certification
 
 ## Python crash course
-`def funcion(test):
-   print("esto esta listo en la verga CDLM")`
+`def funcion(test):`
+`   print("esto esta listo en la verga CDLM")`
 ## Introduction to Git and Github
 
 ## Troubleshooting and Debugging
