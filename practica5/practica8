@@ -1,0 +1,8 @@
+#!/usr/bin/env python3
+
+import subprocess as s
+
+result = s.run(["date"])
+print(result.returncode)
+
+
